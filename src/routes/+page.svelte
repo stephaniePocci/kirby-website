@@ -1,2 +1,20 @@
 <h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+
+<script>
+    import Header from '/src/components/Header.svelte';
+    import Footer from '/src/components/Footer.svelte';
+</script>
+
+<Header />
+
+<main>
+    <p> test </p>
+</main>
+
+<Footer />
+<style>
+    main {
+        max-width: 2em;
+        margin: 1em auto;
+    }
+</style>
