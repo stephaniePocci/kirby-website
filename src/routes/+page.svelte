@@ -13,7 +13,7 @@
 
 <style>
     body{
-        background-color: #F782FC;
+        background: linear-gradient(180deg, #fff261,#f780ff);;
     }
     main {
         max-width: 2em;

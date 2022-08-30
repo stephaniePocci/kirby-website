@@ -8,12 +8,10 @@
 
 <style>
     header {
-        background: linear-gradient(180deg, #fff261,#f780ff);
-        padding: 1em;
+        padding: 2em;
     }
 
     h1 {
-        margin: 1em;
         text-align: center;
     }
 
