@@ -6,7 +6,6 @@
 
 <style>
     github {
-        padding: 1em;
         text-align: left;
     }
 

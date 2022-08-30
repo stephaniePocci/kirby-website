@@ -1,10 +1,12 @@
 <script>
     import Github from './social_media/github.svelte';
     import LinkedIn from './social_media/linkedin.svelte';
+    import Instagram from './social_media/instagram.svelte';
 </script>
 
 <LinkedIn />
 <Github />
+<Instagram />
 
 <footer>
     <div class = 'copyright'> Copyright 2022 Nintendo </div> 
