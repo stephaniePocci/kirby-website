@@ -17,6 +17,7 @@
         background: #FFCBCF;
         padding: 1em;
         text-align: right;
+        
     }
 
     .copyright {
