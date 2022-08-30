@@ -1,7 +1,9 @@
 <script>
     import Github from './social_media/github.svelte';
+    import LinkedIn from './social_media/linkedin.svelte';
 </script>
 
+<LinkedIn />
 <Github />
 
 <footer>
