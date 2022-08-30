@@ -6,10 +6,9 @@
 
 </header>
 
-
 <style>
     header {
-        background: #FFCBCF;
+        background: linear-gradient(180deg, #fff261,#f780ff);
         padding: 1em;
     }
 
